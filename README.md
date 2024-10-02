@@ -6,6 +6,7 @@ The answer to the exercise questions is present in respective folder, and for th
   Compile the Java files:
 
   javac *.java
+  
   java MarsRoverSimulation
   
   The program will ask for the grid size, obstacle positions, the rover's starting position, and a sequence of commands (M, L, R).
